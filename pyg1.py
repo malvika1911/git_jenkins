@@ -1,1 +1,1 @@
-echo 'hello i am shell'
+print ("hello i am shell")
