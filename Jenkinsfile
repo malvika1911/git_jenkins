@@ -4,7 +4,7 @@ pipeline {
         stage('Test') {
             steps {
               echo 'hello sfsf'
-              bat 'python pull.py'
+              bat 'python pyg1.py'
             }
         }
     }
